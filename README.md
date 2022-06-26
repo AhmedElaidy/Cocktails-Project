@@ -1,15 +1,17 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+# The Main Text
+<hr>
+Cocktail readme file
+<hr>
+## The languages that i used:
+<hr>
+- REACT <br>
+- JAVASCRIPT<br>
+- HTML<br>
+- CSS<br>
+<hr>
+## The Functionalities:
+<hr>
+- Cocktail is a React project that has a lot of drinks.<br>
+- Cocktail has 2 pages, one is 'home' that is for drinks and another one is 'About'.<br>
+- Cocktail has a function that makes you search for a drink by its name.<br>
+<hr>
